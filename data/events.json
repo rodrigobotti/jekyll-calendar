@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Carol's Birthday",
+    "start": "2017-3-07",
+    "allDay": true,
+    "url": "https://google.com.br"
+  },
+  {
+    "title": "Ray's Birthday",
+    "start": "2017-4-8",
+    "allDay": true,
+    "url": "https://google.com.br"
+  }
+]
